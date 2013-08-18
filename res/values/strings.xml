@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-	<string name="app_name">Celestia Radio</string>
+	<string name="app_name">Hive365 Radio</string>
 	<string name="logo">Logo</string>
 	<string name="toggle">Toggle Start and Stop</string>
-	<string name="address">http://molestia.ponify.me:8062/stream</string>
+	<string name="address">http://djs.hive365.co.uk:8088/live</string>
 	<string name="artist">Artist:</string>
 	<string name="title">Title:</string>
-	<string name="stats">http://twilight-sparkle.ponify.me/stats.php</string>
-	<string name="schedule">http://www.ponify.me/schedule.json.php</string>
+	<string name="stats">http://hive365.co.uk/stats.php</string>
+	<string name="schedule">http://hive365.co.uk/schedule.php</string>
 	<string name="background">Molestia sees all!</string>
-	<string name="website">http://ponify.me/</string>
+	<string name="website">http://hive365.co.uk/</string>
 
 </resources>
